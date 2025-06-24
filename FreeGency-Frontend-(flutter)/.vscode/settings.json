@@ -1,0 +1,21 @@
+{
+  "diffEditor.codeLens": false,
+  "editor.scrollbar.horizontal": "auto",
+  "editor.scrollPredominantAxis": true,
+  "editor.stickyScroll.scrollWithEditor": true,
+  "workbench.activityBar.orientation": "vertical",
+  "editor.foldingStrategy": "indentation",
+  "editor.showFoldingControls": "always",
+  "editor.folding": true,
+  "editor.foldingHighlight": true,
+  "editor.foldingImportsByDefault": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.guides.bracketPairsHorizontal": true,
+  "editor.renderWhitespace": "selection",
+  "workbench.editor.showTabs": "multiple",
+  "workbench.editor.decorations.badges": true,
+  "workbench.editor.decorations.colors": true,
+  "dart.previewFlutterUiGuides": true,
+  "dart.previewFlutterUiGuidesCustomTracking": true,
+  "dart.closingLabels": true
+}

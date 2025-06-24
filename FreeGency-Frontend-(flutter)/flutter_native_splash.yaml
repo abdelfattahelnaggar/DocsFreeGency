@@ -1,0 +1,31 @@
+flutter_native_splash:
+  # Light mode splash screen
+  color: "#3A72FF"
+  # Dark mode splash screen
+  color_dark: "#745DF5"
+  # Set image to null to ensure no image is displayed
+  image: null
+  # Disable branding
+  branding: null
+  branding_mode: bottom
+  # Android 12 options
+  android_12:
+    # Android 12 background color (light mode)
+    color: "#3A72FF"
+    # Android 12 background color (dark mode)
+    color_dark: "#745DF5"
+    # No image
+    image: null
+    # No branding
+    branding: null
+    # No icon
+    icon_background_color: "#3A72FF"
+    icon_background_color_dark: "#745DF5"
+  # Set to true to run in fullscreen mode
+  fullscreen: true
+  # Enable for Android
+  android: true
+  # Enable for iOS
+  ios: true
+  # Disable for web
+  web: false

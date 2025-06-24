@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511078046386",
+    "project_id": "freegency-5cd19",
+    "storage_bucket": "freegency-5cd19.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511078046386:android:bf7fd62b5c4447096847ab",
+        "android_client_info": {
+          "package_name": "com.freegency.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADJSYAQ4bg_F5KcHxUBV9pZx4m9tdTM8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
